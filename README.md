@@ -9,9 +9,9 @@
 [![Files](https://img.shields.io/badge/~1,900_files-source_only-grey)](#directory-structure)
 [![MCP Server](https://img.shields.io/badge/MCP-Explorer_Server-blueviolet)](#-explore-with-mcp-server)
 
-<a href="./claude-code-from-source/"><img src="./claude-code-from-source/web/public/cover.jpg" alt="Claude Code from Source — book cover" width="300" /></a>
+<a href="./source-map/"><img src="./source-map/web/public/cover.jpg" alt="Claude Code from Source — book cover" width="300" /></a>
 
-**Book: [Claude Code from Source](./claude-code-from-source/)** — 18 chapters on the architecture, in the `claude-code-from-source/` folder of this branch
+**Book: [Claude Code from Source](./source-map/)** — 18 chapters on the architecture, in the `source-map/` folder of this branch
 
 > The original unmodified leaked source is preserved in this repository's [`backup` branch](https://github.com/777genius/claude-code-source-code/tree/backup).
 
